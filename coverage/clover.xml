@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644280996611" clover="3.2.0">
+  <project timestamp="1644280996611" name="All files">
+    <metrics statements="11" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="6" elements="20" coveredelements="14" complexity="0" loc="11" ncloc="11" packages="2" files="2" classes="2"/>
+    <package name="calculator">
+      <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="index.js" path="/Users/emma/Desktop/ProyectosPersonales/JestIntroduction/src/calculator/index.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="quotes">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="index.js" path="/Users/emma/Desktop/ProyectosPersonales/JestIntroduction/src/quotes/index.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
