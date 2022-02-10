@@ -37,8 +37,8 @@
 
 ![AllFiles Coverage](src/assets/images/AllFiles-Coverage.png)
 
-![AllFiles Coverage](src/assets/images/calculator-js-coverage.png)
+![Calculator Coverage](src/assets/images/calculator-js-coverage.png)
 
-![AllFiles Coverage](src/assets/images/index-js-calculator-js-notCoverage.png)
+![Calculator not Coverage](src/assets/images/index-js-calculator-js-notCoverage.png)
 
-![AllFiles Coverage](src/assets/images/quote-js-coverage.png)
+![Quote Promises Coverage](src/assets/images/quote-js-coverage.png)
