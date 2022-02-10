@@ -31,3 +31,8 @@
 - Use the option from the jest cli 
     - coverageAll
     - watchAll
+
+
+### Coverage report captures
+
+![Alt Text](src/assets/images/AllFiles-Coverage.png)
