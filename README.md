@@ -29,3 +29,8 @@
     --- async/await
     --- Promises
     --- Callbacks
+
+-- Use the option from the jest cli 
+    --- coverageAll
+    --- watchAll
+    
